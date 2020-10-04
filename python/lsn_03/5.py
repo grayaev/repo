@@ -11,7 +11,6 @@ def summary(num_str, ex):
             break
     return zero, ex
 
-
 lost = 0
 ex1 = 0
 while ex1 != 1:
